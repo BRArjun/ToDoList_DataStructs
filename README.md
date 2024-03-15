@@ -1,5 +1,6 @@
 # To-Do List App
 This is a To-Do list application implemented using the C programming Language with GTK 3.0 for the UI.
+This is done using singular linked list
 
 > [!NOTE]
 > Please note that this has been tested and verified to be working on Arch Linux and other Linux distros.Make sure that you meet this requirement before using this application.
