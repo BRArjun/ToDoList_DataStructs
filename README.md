@@ -18,4 +18,5 @@ Next navigate into the directory where you have saved the repo.
 
 Finally run the .c file with the following commands:
  >gcc `pkg-config --cflags gtk+-3.0` DSA.c -o DSA `pkg-config --libs gtk+-3.0'
+ 
  >./DSA.
