@@ -11,12 +11,15 @@ It has been implemented using the DS concept of singly linked list.
 ## Usage
 
 Clone this repo onto your local system using the command:
- >git clone https://github.com/BRArjun/ToDoList_DataStructs.git
-
+ ```
+    git clone https://github.com/BRArjun/ToDoList_DataStructs.git
+ ```
 Next navigate into the directory where you have saved the repo.
- >cd Downloads/ToDoList_DataStructs
-
+```
+    cd Downloads/ToDoList_DataStructs
+```
 Finally run the .c file with the following commands:
- >gcc `pkg-config --cflags gtk+-3.0` DSA.c -o DSA `pkg-config --libs gtk+-3.0'
- 
- >./DSA.
+```
+    gcc `pkg-config --cflags gtk+-3.0` DSA.c -o DSA `pkg-config --libs gtk+-3.0'
+    ./DSA
+```
