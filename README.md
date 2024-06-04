@@ -1,3 +1,5 @@
+<img src="DEMOIMAGES/Screenshot from 2023-12-29 12-14-30.png"></img>
+
 # To-Do List App
 This is a todo list application implemented using the C programming Language with GTK 3.0 for the UI.
 
